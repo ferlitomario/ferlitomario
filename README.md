@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Mario Ferlito from Catania,Sicily<br><br>- 🔭 I’m an engineering student <br>- 📚 I'm currently learning python and solidity<br>- ⚡ In my free time I play football and learn for increase my basic knowledge</p>
+<p align="left">I'm Mario Ferlito from Catania,Sicily!<br><br>- 🔭 I’m an engineering student <br>- 📚 I'm currently learning python and solidity<br>- ⚡ In my free time I play football and learn for increase my basic knowledge</p>
 
 ###
 
